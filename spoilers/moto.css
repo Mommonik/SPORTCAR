@@ -1,0 +1,45 @@
+@media (max-width: 720px) {
+  .parts {
+    flex-wrap: wrap;
+    width: 630px;
+    margin-left: 110px;
+  }
+  .part11 p {
+    font-size: 70px;
+  }
+  .part11 {
+    margin-bottom: 25px;
+    width: 630px;
+    height: 600px;
+  }
+  .part21 p {
+    font-size: 70px;
+  }
+  .part21 {
+    margin-bottom: 25px;
+    width: 630px;
+    height: 600px;
+    margin: 25px auto;
+  }
+  .part31 p {
+    font-size: 70px;
+  }
+  .part31 {
+    margin-bottom: 25px;
+    width: 630px;
+    height: 600px;
+  }
+  footer {
+    width: 845px;
+  }
+  .nav-links1 {
+    display: none;
+  }
+  .gamburger-menu {
+    position: absolute;
+    right: 350px;
+  }
+  .nav-links1 {
+    display: none;
+  }
+}

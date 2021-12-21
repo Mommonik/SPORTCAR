@@ -1,0 +1,45 @@
+.card {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.cards {
+  width: 85%;
+  margin: 70px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.cards2 {
+  width: 41%;
+  margin: 70px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.card-bottom p {
+  margin: 0;
+}
+.card-bottom {
+  margin: 0;
+  width: 279px;
+  height: 40px;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-bottom-flex img:hover {
+  transform: scale(1.4);
+  transition: 0.3s;
+}
+.card-bottom-flex {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
